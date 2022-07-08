@@ -13,7 +13,7 @@
     },
     "ios": {
         "frameworks": [
-            "MobileCoreServices",
+            "CoreServices",
             "CFNetwork",
             "Security"
         ]
